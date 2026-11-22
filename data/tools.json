@@ -1,0 +1,838 @@
+[
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "slug": "youtube",
+    "category": "Video & Streaming",
+    "description": "The world's largest video sharing platform for streaming, learning, and entertainment.",
+    "longDescription": "YouTube is a global online video sharing and social media platform owned by Google. Users can watch, like, share, comment on, and upload their own videos. It offers music videos, documentary films, audio recordings, movie trailers, live streams, video blogs, and educational content.",
+    "url": "https://www.youtube.com",
+    "color": "#FF0000",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z\"/></svg>",
+    "features": [
+      "4K & 8K Video Streaming",
+      "YouTube Music & Podcasts",
+      "Live Streaming with Super Chat",
+      "Personalized Recommendations",
+      "YouTube Shorts Feed"
+    ],
+    "tags": [
+      "video",
+      "streaming",
+      "music",
+      "creator",
+      "media"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "views": 18240,
+    "createdAt": "2026-01-01"
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "slug": "chatgpt",
+    "category": "AI Tools",
+    "description": "OpenAI's groundbreaking conversational AI for writing, coding, brainstorming, and research.",
+    "longDescription": "ChatGPT is an artificial intelligence chatbot developed by OpenAI. It can assist with complex coding tasks, creative and technical writing, mathematical analysis, language translation, and automated research through natural human conversation.",
+    "url": "https://chatgpt.com",
+    "color": "#10A37F",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M22.282 9.821a5.985 5.985 0 0 0-.516-4.91 6.046 6.046 0 0 0-6.51-2.9A6.065 6.065 0 0 0 4.981 4.18a5.985 5.985 0 0 0-3.998 2.9 6.046 6.046 0 0 0 .743 7.097 5.98 5.98 0 0 0 .51 4.911 6.051 6.051 0 0 0 6.515 2.9A5.985 5.985 0 0 0 13.26 24a6.056 6.056 0 0 0 5.771-4.209 5.99 5.99 0 0 0 3.997-2.9 6.056 6.056 0 0 0-.746-7.07zm-9.022 12.608a4.475 4.475 0 0 1-2.876-1.04l.141-.08 4.778-2.758a.795.795 0 0 0 .392-.681v-6.737l2.02 1.168a.071.071 0 0 1 .038.052v5.583a4.504 4.504 0 0 1-4.493 4.493zm-9.61-4.762a4.47 4.47 0 0 1-.535-3.014l.142.085 4.783 2.759a.771.771 0 0 0 .78 0l5.843-3.369v2.332a.08.08 0 0 1-.033.062L9.74 19.95a4.5 4.5 0 0 1-6.09-2.283zm-1.042-9.791a4.484 4.484 0 0 1 2.34-1.974V8.7a.78.78 0 0 0 .392.677l5.814 3.355-2.02 1.168a.076.076 0 0 1-.071 0l-4.83-2.786a4.504 4.504 0 0 1-1.625-5.322zm16.73 3.63a.78.78 0 0 0-.39-.675L13.14 7.46l2.02-1.168a.076.076 0 0 1 .071 0l4.83 2.791a4.494 4.494 0 0 1-.676 8.105v-2.81a.785.785 0 0 0-.39-.676l-5.842-3.372 2.02-1.168a.076.076 0 0 1 .071 0zM8.88 12.35l2.603-1.503 2.603 1.503v3.006l-2.603 1.503-2.603-1.503z\"/></svg>",
+    "features": [
+      "Advanced Reasoning Models",
+      "Code Generation & Debugging",
+      "Multimodal Image & File Analysis",
+      "Custom GPT Creation",
+      "Browsing & Live Search"
+    ],
+    "tags": [
+      "ai",
+      "assistant",
+      "coding",
+      "writing",
+      "llm"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 5.0,
+    "views": 25190,
+    "createdAt": "2026-01-02"
+  },
+  {
+    "id": "gemini",
+    "name": "Google Gemini",
+    "slug": "google-gemini",
+    "category": "AI Tools",
+    "description": "Google's next-generation multimodal AI built for deep reasoning and multi-format understanding.",
+    "longDescription": "Google Gemini is a state-of-the-art multimodal AI model family developed by Google DeepMind. It processes text, code, audio, image, and video simultaneously, integrating deeply with Google Workspace, search, and development tools.",
+    "url": "https://gemini.google.com",
+    "color": "#1A73E8",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 24C12 17.373 6.627 12 0 12C6.627 12 12 6.627 12 0C12 6.627 17.373 12 24 12C17.373 12 12 17.373 12 24Z\"/></svg>",
+    "features": [
+      "Massive Context Window",
+      "Multimodal Audio/Video Understanding",
+      "Direct Google Docs & Drive Integration",
+      "Deep Coding Assistance",
+      "Fast Real-time Research"
+    ],
+    "tags": [
+      "ai",
+      "google",
+      "multimodal",
+      "research",
+      "productivity"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "views": 19430,
+    "createdAt": "2026-01-03"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "slug": "netflix",
+    "category": "Video & Streaming",
+    "description": "Premium on-demand subscription video streaming for movies, award-winning series, and anime.",
+    "longDescription": "Netflix is an American subscription video on-demand streaming service offering an extensive library of films and television series through distribution deals as well as its own acclaimed original productions.",
+    "url": "https://www.netflix.com",
+    "color": "#E50914",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M5.398 0v24c1.171-.247 2.378-.567 3.553-.872V0H5.398zm9.654 0v18.736l-5.69-14.86c1.172-.258 2.373-.556 3.553-.876v-.001L15.052 0zm3.55 0v22.383c-1.18.305-2.382.625-3.553.872V0h3.553z\"/></svg>",
+    "features": [
+      "Ultra HD 4K HDR Streaming",
+      "Offline Downloads on Mobile",
+      "Spatial Audio",
+      "Multiple User Profiles",
+      "Original Award-Winning Shows"
+    ],
+    "tags": [
+      "movies",
+      "shows",
+      "streaming",
+      "entertainment",
+      "cinema"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.8,
+    "views": 16500,
+    "createdAt": "2026-01-04"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "slug": "spotify",
+    "category": "Music & Audio",
+    "description": "Stream millions of songs, curated playlists, podcasts, and audiobooks on any device.",
+    "longDescription": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world with curated playlists, social listening, and personalized discovery algorithms.",
+    "url": "https://open.spotify.com",
+    "color": "#1DB954",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z\"/></svg>",
+    "features": [
+      "Personalized Discover Weekly",
+      "HiFi Audio Streaming",
+      "Curated Podcasts & Audiobooks",
+      "Collaborative Group Jam Sessions",
+      "Cross-Device Spotify Connect"
+    ],
+    "tags": [
+      "music",
+      "podcasts",
+      "audio",
+      "streaming",
+      "playlists"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "views": 15900,
+    "createdAt": "2026-01-05"
+  },
+  {
+    "id": "canva",
+    "name": "Canva",
+    "slug": "canva",
+    "category": "Graphic Design",
+    "description": "Intuitive graphic design platform for social media graphics, presentations, posters, and video.",
+    "longDescription": "Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos, and more with thousands of templates and powerful Magic Studio AI tools.",
+    "url": "https://www.canva.com",
+    "color": "#00C4CC",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12.002 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm0 2.4a9.6 9.6 0 1 1 0 19.2 9.6 9.6 0 0 1 0-19.2zm-1.8 4.2a5.4 5.4 0 1 0 0 10.8 5.4 5.4 0 0 0 0-10.8zm0 2.4a3 3 0 1 1 0 6 3 3 0 0 1 0-6z\"/></svg>",
+    "features": [
+      "Magic Studio AI Generator",
+      "Thousands of Designer Templates",
+      "Team Collaboration & Brand Kit",
+      "Video Editing & Animation",
+      "One-Click Social Publishing"
+    ],
+    "tags": [
+      "design",
+      "graphics",
+      "templates",
+      "ai",
+      "presentation"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.8,
+    "views": 14210,
+    "createdAt": "2026-01-06"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "slug": "instagram",
+    "category": "Social Media",
+    "description": "Visual social networking platform for sharing photos, Reels, Stories, and messaging friends.",
+    "longDescription": "Instagram is a photo and video sharing social networking service owned by Meta. It allows users to upload media that can be edited with filters, organized by hashtags and geographical tagging, and shared publicly or with preapproved followers.",
+    "url": "https://www.instagram.com",
+    "color": "#E4405F",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.406-11.845a1.44 1.44 0 1 0 0 2.881 1.44 1.44 0 0 0 0-2.881z\"/></svg>",
+    "features": [
+      "Stories with Interactive Stickers",
+      "Reels Short-Form Video",
+      "Direct Messaging & Video Chat",
+      "Creator Marketplace",
+      "E-commerce Shopping"
+    ],
+    "tags": [
+      "social",
+      "photos",
+      "reels",
+      "stories",
+      "media"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.7,
+    "views": 21800,
+    "createdAt": "2026-01-07"
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "slug": "tiktok",
+    "category": "Social Media",
+    "description": "Short-form mobile video platform discovering viral culture, music, dances, and trends.",
+    "longDescription": "TikTok is a leading platform for short-form mobile video. It empowers users to create, discover, and share entertaining videos set to music and sound clips with advanced algorithmic recommendations.",
+    "url": "https://www.tiktok.com",
+    "color": "#FE2C55",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.24 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z\"/></svg>",
+    "features": [
+      "Hyper-personalized 'For You' Feed",
+      "Built-in Video Effects & Filters",
+      "Duets and Stitches",
+      "Live Gifting and Streaming",
+      "TikTok Shop"
+    ],
+    "tags": [
+      "video",
+      "shorts",
+      "social",
+      "music",
+      "viral"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.6,
+    "views": 23400,
+    "createdAt": "2026-01-08"
+  },
+  {
+    "id": "whatsapp",
+    "name": "WhatsApp",
+    "slug": "whatsapp",
+    "category": "Communication",
+    "description": "Fast, simple, secure messaging and calling for free on mobile and web.",
+    "longDescription": "WhatsApp from Meta is a free messaging and video calling app used by over 2 billion people in more than 180 countries. It's simple, reliable, and private, offering end-to-end encryption by default.",
+    "url": "https://web.whatsapp.com",
+    "color": "#25D366",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M17.472 14.382c-.301-.15-1.78-.878-2.056-.979-.276-.101-.477-.15-.678.15-.2.302-.779.98-1.006 1.205-.227.227-.453.252-.754.101-.302-.15-1.275-.47-2.428-1.498-.897-.799-1.503-1.786-1.68-2.088-.176-.302-.019-.465.132-.615.136-.135.301-.351.452-.527.151-.176.201-.302.301-.502.101-.201.05-.377-.025-.527-.076-.15-.678-1.634-.93-2.238-.244-.589-.493-.509-.678-.519-.176-.01-.377-.01-.578-.01-.201 0-.527.075-.804.376-.276.302-1.055 1.03-1.055 2.512 0 1.482 1.08 2.912 1.23 3.113.151.201 2.124 3.243 5.146 4.549.719.311 1.28.497 1.718.636.722.23 1.378.197 1.898.12.578-.087 1.78-.727 2.031-1.43.251-.703.251-1.306.176-1.43-.075-.125-.276-.201-.577-.352zM12.04 21.73h-.008a9.88 9.88 0 0 1-5.034-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.002-5.45 4.437-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.88 9.884zM12.04 0C5.402 0 .01 5.393 0 12.032c0 2.119.553 4.185 1.603 6.006L0 24l6.155-1.614a12.003 12.003 0 0 0 5.885 1.54h.005c6.634 0 12.025-5.393 12.028-12.033 0-3.217-1.252-6.242-3.526-8.518C18.272 1.259 15.249 0 12.04 0z\"/></svg>",
+    "features": [
+      "End-to-End Encryption",
+      "High-Quality Voice & Video Calls",
+      "Channels & Broadcast Communities",
+      "Document & Media Sharing",
+      "Desktop & Web Client Sync"
+    ],
+    "tags": [
+      "chat",
+      "messaging",
+      "calls",
+      "communication",
+      "privacy"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.8,
+    "views": 20110,
+    "createdAt": "2026-01-09"
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram",
+    "slug": "telegram",
+    "category": "Communication",
+    "description": "Cloud-based mobile and desktop messaging app with a focus on security, speed, and bot APIs.",
+    "longDescription": "Telegram is a globally accessible freemium, cross-platform, cloud-based instant messaging service. The service also provides end-to-end encrypted video calling, VoIP, file sharing, supergroups, and powerful bot automation.",
+    "url": "https://web.telegram.org",
+    "color": "#26A5E4",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z\"/></svg>",
+    "features": [
+      "Channels with Unlimited Subscribers",
+      "Up to 2GB File Sharing",
+      "Custom Bots and Web Apps",
+      "Secret Chats with Self-Destruct",
+      "Cloud-Synced Across All Devices"
+    ],
+    "tags": [
+      "chat",
+      "messaging",
+      "bots",
+      "privacy",
+      "cloud"
+    ],
+    "isPopular": true,
+    "isFeatured": false,
+    "rating": 4.7,
+    "views": 13900,
+    "createdAt": "2026-01-10"
+  },
+  {
+    "id": "googledrive",
+    "name": "Google Drive",
+    "slug": "google-drive",
+    "category": "Cloud Storage",
+    "description": "Safe cloud storage, file backup, and smart real-time team collaboration from Google.",
+    "longDescription": "Google Drive is a file storage and synchronization service developed by Google. It allows users to store files in the cloud, synchronize files across devices, and share files with integrated Docs, Sheets, and Slides.",
+    "url": "https://drive.google.com",
+    "color": "#34A853",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M7.74 3.75 1.5 14.5l3.87 6.75 6.24-10.75-3.87-6.75zm8.52 0H7.74l3.87 6.75h8.52l-3.87-6.75zm1.95 3.38L12 17.88 15.87 24.5l6.24-10.75-3.87-6.62z\"/></svg>",
+    "features": [
+      "15GB Free Secure Storage",
+      "AI-Powered Search & Categorization",
+      "Real-time Collaboration & Versioning",
+      "Seamless Mobile & Desktop Sync",
+      "Advanced Sharing Permissions"
+    ],
+    "tags": [
+      "cloud",
+      "storage",
+      "files",
+      "backup",
+      "google"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "views": 17800,
+    "createdAt": "2026-01-11"
+  },
+  {
+    "id": "googledocs",
+    "name": "Google Docs",
+    "slug": "google-docs",
+    "category": "Productivity",
+    "description": "Online collaborative word processor for creating, editing, and sharing professional documents.",
+    "longDescription": "Google Docs brings your documents to life with smart editing and styling tools to help you easily format text and paragraphs. Collaborate in real time, leave comments, and suggest edits with team members anywhere.",
+    "url": "https://docs.google.com",
+    "color": "#4285F4",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M14.727 0H4.364C3.064 0 2 .995 2 2.21v19.58C2 23.005 3.064 24 4.364 24h15.272c1.3 0 2.364-.995 2.364-2.21V6.632L14.727 0zm1.091 8.842V2.763l5.455 5.526h-5.455zm-8.727 4.421h9.818v2.21H7.091v-2.21zm0 4.421h9.818v2.21H7.091v-2.21zm0-8.842h4.909v2.21H7.091V8.842z\"/></svg>",
+    "features": [
+      "Simultaneous Multi-User Editing",
+      "AI Writing Assistant & Summarizer",
+      "Auto-Save to Cloud",
+      "Export to PDF, DOCX, EPUB",
+      "Revision History & Suggestions"
+    ],
+    "tags": [
+      "documents",
+      "writing",
+      "editor",
+      "productivity",
+      "collaboration"
+    ],
+    "isPopular": true,
+    "isFeatured": false,
+    "rating": 4.8,
+    "views": 15100,
+    "createdAt": "2026-01-12"
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "slug": "facebook",
+    "category": "Social Media",
+    "description": "Connect with friends, family, local communities, interest groups, and businesses worldwide.",
+    "longDescription": "Facebook is the world's most populous online social media and social networking service. Discover community groups, buy and sell in Marketplace, watch live videos, and stay connected with family.",
+    "url": "https://www.facebook.com",
+    "color": "#1877F2",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z\"/></svg>",
+    "features": [
+      "Interest Groups & Communities",
+      "Facebook Marketplace",
+      "Event Planning & RSVPs",
+      "Watch Video Feed",
+      "Messenger Integration"
+    ],
+    "tags": [
+      "social",
+      "community",
+      "friends",
+      "groups",
+      "marketplace"
+    ],
+    "isPopular": true,
+    "isFeatured": false,
+    "rating": 4.4,
+    "views": 16200,
+    "createdAt": "2026-01-13"
+  },
+  {
+    "id": "x",
+    "name": "X (Twitter)",
+    "slug": "x-twitter",
+    "category": "Social Media",
+    "description": "Real-time global town square for breaking news, entertainment, tech discourse, and commentary.",
+    "longDescription": "X (formerly Twitter) is the premier real-time communication platform for news, opinions, tech announcements, and global conversations. Follow thought leaders, journalists, and cultural icons as stories unfold.",
+    "url": "https://x.com",
+    "color": "#000000",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z\"/></svg>",
+    "features": [
+      "Breaking News & Live Trends",
+      "Grok AI Assistant Access",
+      "Audio Spaces Discussions",
+      "Long-form Posts & Articles",
+      "Creator Ad-Revenue Sharing"
+    ],
+    "tags": [
+      "news",
+      "social",
+      "microblog",
+      "trends",
+      "discourse"
+    ],
+    "isPopular": true,
+    "isFeatured": false,
+    "rating": 4.5,
+    "views": 17400,
+    "createdAt": "2026-01-14"
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "slug": "reddit",
+    "category": "Social Media",
+    "description": "The front page of the internet: millions of communities exploring every topic imaginable.",
+    "longDescription": "Reddit is a network of thousands of communities where people can dive into anything through experiences, discussions, memes, expert advice, and shared passions.",
+    "url": "https://www.reddit.com",
+    "color": "#FF4500",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-4.466 3.99a.327.327 0 0 0-.231.096.35.35 0 0 0 0 .485c.571.572 1.637.854 2.947.854 1.307 0 2.374-.282 2.944-.854a.35.35 0 0 0 0-.485.34.34 0 0 0-.482 0c-.43.43-1.343.666-2.462.666-1.12 0-2.033-.236-2.463-.666a.333.333 0 0 0-.253-.096z\"/></svg>",
+    "features": [
+      "Niche Subreddit Communities",
+      "Upvote/Downvote Ranking System",
+      "AMA (Ask Me Anything) Sessions",
+      "Custom Community Flairs",
+      "Rich Multimedia Discussions"
+    ],
+    "tags": [
+      "forum",
+      "community",
+      "discussions",
+      "reddit",
+      "subreddits"
+    ],
+    "isPopular": true,
+    "isFeatured": false,
+    "rating": 4.7,
+    "views": 18900,
+    "createdAt": "2026-01-15"
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "slug": "discord",
+    "category": "Communication",
+    "description": "Voice, video, and text communication service used by millions to talk and hang out with friends.",
+    "longDescription": "Discord gives you the power to create your own home for your communities and friends. Where you can stay close and have fun over text, voice, and video chat, whether you’re part of a school club, gaming group, or worldwide art community.",
+    "url": "https://discord.com",
+    "color": "#5865F2",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994.021-.041.001-.09-.041-.106a13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.929 1.793 8.18 1.793 12.061 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.894.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.028zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z\"/></svg>",
+    "features": [
+      "Low-Latency Voice Channels",
+      "Screen Sharing & Streaming in 1080p/60fps",
+      "Custom Server Roles & Permissions",
+      "Extensive Bot Ecosystem",
+      "Organized Topic Channels"
+    ],
+    "tags": [
+      "chat",
+      "gaming",
+      "voice",
+      "community",
+      "servers"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "views": 22100,
+    "createdAt": "2026-01-16"
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "slug": "twitch",
+    "category": "Video & Streaming",
+    "description": "Live streaming platform for gaming, esports, music, creative broadcasts, and talk shows.",
+    "longDescription": "Twitch is an interactive live streaming service for content spanning gaming, entertainment, sports, music, and more. Join millions of viewers chatting with streamers in real time.",
+    "url": "https://www.twitch.tv",
+    "color": "#9146FF",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z\"/></svg>",
+    "features": [
+      "Live High-Definition Gameplay",
+      "Real-time Interactive Chat & Emotes",
+      "Channel Points & Subscriber Badges",
+      "Squad Streams & Clips",
+      "Twitch Drops & Rewards"
+    ],
+    "tags": [
+      "gaming",
+      "streaming",
+      "live",
+      "esports",
+      "creators"
+    ],
+    "isPopular": true,
+    "isFeatured": false,
+    "rating": 4.6,
+    "views": 14700,
+    "createdAt": "2026-01-17"
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "slug": "linkedin",
+    "category": "Business Tools",
+    "description": "World's premier professional network to discover career opportunities, hire talent, and connect.",
+    "longDescription": "LinkedIn is the world's largest professional network with hundreds of millions of members worldwide. Discover jobs, build your resume, network with industry leaders, and consume enterprise thought leadership.",
+    "url": "https://www.linkedin.com",
+    "color": "#0A66C2",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z\"/></svg>",
+    "features": [
+      "Job Search & 1-Click Apply",
+      "Professional Identity & Credentials",
+      "Industry News & Pulse Feed",
+      "Recruiter & Talent Solutions",
+      "LinkedIn Learning Courses"
+    ],
+    "tags": [
+      "jobs",
+      "career",
+      "professional",
+      "business",
+      "networking"
+    ],
+    "isPopular": true,
+    "isFeatured": false,
+    "rating": 4.7,
+    "views": 16900,
+    "createdAt": "2026-01-18"
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "category": "Graphic Design",
+    "description": "Visual discovery engine for finding ideas like recipes, home and style inspiration, and aesthetics.",
+    "longDescription": "Pinterest is an image sharing and social media service designed to enable saving and discovery of information on the internet using images, animated GIFs, and videos in the form of pinboards.",
+    "url": "https://www.pinterest.com",
+    "color": "#BD081C",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146 1.124.347 2.317.535 3.554.535 6.607 0 11.985-5.365 11.985-11.987C23.97 5.39 18.592.026 11.987.026l.03-.026z\"/></svg>",
+    "features": [
+      "Personalized Visual Mood Boards",
+      "Lens Visual Search AI",
+      "Rich Pins with Product Details",
+      "Home Decor & Recipe Inspiration",
+      "Shoppable Pins"
+    ],
+    "tags": [
+      "inspiration",
+      "visual",
+      "photos",
+      "moodboard",
+      "fashion"
+    ],
+    "isPopular": true,
+    "isFeatured": false,
+    "rating": 4.6,
+    "views": 13400,
+    "createdAt": "2026-01-19"
+  },
+  {
+    "id": "snapchat",
+    "name": "Snapchat",
+    "slug": "snapchat",
+    "category": "Social Media",
+    "description": "Fast and fun visual messaging app for sharing moments with friends with AR lenses.",
+    "longDescription": "Snapchat lets you easily talk with friends, view Live Stories from around the world, and explore news in Discover. Express yourself with augmented reality Lenses, Bitmojis, and disappearing snaps.",
+    "url": "https://web.snapchat.com",
+    "color": "#FFFC00",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12.206.772c-4.664 0-7.144 3.398-7.144 6.242 0 1.258.467 2.87 1.05 3.864.166.284.148.455-.062.775-.308.471-1.01 1.545-1.895 2.052-.452.26-.788.464-.814.787-.033.407.36.666.969.803 1.282.288 2.61.124 3.753-.321.36-.14.629-.028.85.197 1.077 1.1 2.378 1.49 3.293 1.49.914 0 2.216-.39 3.293-1.49.221-.225.49-.337.85-.197 1.143.445 2.471.609 3.753.321.609-.137 1.002-.396.969-.803-.026-.323-.362-.527-.814-.787-.885-.507-1.587-1.581-1.895-2.052-.21-.32-.228-.491-.062-.775.583-.994 1.05-2.606 1.05-3.864 0-2.844-2.48-6.242-7.144-6.242zm-.008 1.637c3.673 0 5.507 2.615 5.507 4.605 0 1.026-.39 2.435-.873 3.26-.59.999-.448 1.687.202 2.68.513.787 1.082 1.58 1.487 1.815-.558.077-1.393-.05-2.261-.387-1.074-.42-1.936-.07-2.673.684-.817.834-1.789 1.104-2.39 1.104-.6 0-1.572-.27-2.39-1.104-.736-.754-1.6-.104-2.673-.684-.868.337-1.703.464-2.261.387.405-.235.974-1.028 1.487-1.815.65-.993.792-1.681.202-2.68-.483-.825-.873-2.234-.873-3.26 0-1.99 1.834-4.605 5.507-4.605z\"/></svg>",
+    "features": [
+      "Augmented Reality Camera Lenses",
+      "Disappearing Snaps & Chats",
+      "Snap Map Location Sharing",
+      "Personalized 3D Bitmojis",
+      "Spotlight Short Video Community"
+    ],
+    "tags": [
+      "snaps",
+      "camera",
+      "filters",
+      "messaging",
+      "social"
+    ],
+    "isPopular": true,
+    "isFeatured": false,
+    "rating": 4.4,
+    "views": 12800,
+    "createdAt": "2026-01-20"
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "slug": "github",
+    "category": "Developer Tools",
+    "description": "World's leading development platform for hosting code, version control, CI/CD, and open source.",
+    "longDescription": "GitHub is where over 100 million developers shape the future of software. Build, test, and deploy applications with Git version control, GitHub Actions CI/CD pipelines, and GitHub Copilot AI.",
+    "url": "https://github.com",
+    "color": "#181717",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z\"/></svg>",
+    "features": [
+      "Git Code Repositories & Pull Requests",
+      "GitHub Actions Automation",
+      "GitHub Copilot AI Pair Programmer",
+      "Codespaces Cloud IDE",
+      "Issue Tracking & Discussions"
+    ],
+    "tags": [
+      "coding",
+      "git",
+      "developer",
+      "open-source",
+      "devops"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 5.0,
+    "views": 21300,
+    "createdAt": "2026-01-21"
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "slug": "figma",
+    "category": "Graphic Design",
+    "description": "The collaborative interface design tool connecting teams from concept to production.",
+    "longDescription": "Figma is the leading collaborative design tool for building user interfaces, mobile apps, websites, and interactive prototypes directly in the browser with real-time multiplayer editing.",
+    "url": "https://www.figma.com",
+    "color": "#F24E1E",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 12a4 4 0 0 0 4-4 4 4 0 0 0-4-4H8a4 4 0 0 0-4 4 4 4 0 0 0 4 4h4zm0 0a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4zm0 0H8a4 4 0 0 1-4-4 4 4 0 0 1 4-4h4v8zm4-8a4 4 0 0 1 4 4 4 4 0 0 1-4 4V4zm0 8a4 4 0 0 1 4 4 4 4 0 0 1-4 4v-8z\"/></svg>",
+    "features": [
+      "Real-Time Multiplayer Design",
+      "Interactive Component Prototyping",
+      "Design System Variables & Tokens",
+      "Dev Mode Code Inspection",
+      "FigJam Digital Whiteboard"
+    ],
+    "tags": [
+      "ui",
+      "ux",
+      "design",
+      "prototyping",
+      "collaboration"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "views": 18700,
+    "createdAt": "2026-01-22"
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "slug": "notion",
+    "category": "Productivity",
+    "description": "Connected workspace for your notes, tasks, databases, wikis, and AI project planning.",
+    "longDescription": "Notion is a single space where you can think, write, and plan. Capture thoughts, manage projects, run an entire company, and do it exactly the way you want with modular building blocks.",
+    "url": "https://www.notion.so",
+    "color": "#000000",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M4.459 4.208c.746.606 1.026.56 2.428.466l13.215-.793c.28 0 .047-.28-.093-.373L18.3 2.296a2.29 2.29 0 0 0-1.49-.56L3.526 2.622c-.42 0-.56.28-.373.466zm-.84 3.732v12.78c0 .84.42 1.12 1.213 1.073l14.335-.84c.746 0 .933-.466.933-1.12V7.1c0-.653-.28-.933-.933-.886L4.832 7.054c-.793.047-1.213.42-1.213.886zm13.122 1.493c.093.42 0 .84-.42.886l-.7.14v7.977c-.373.233-.84.373-1.26.373-.7 0-1.073-.28-1.54-.84l-4.48-6.998v6.718l1.4.327c.42.093.42.56.093.793l-3.36.187c-.093-.233 0-.653.373-.746l.84-.187V9.756l-1.073-.093c-.42-.047-.42-.513 0-.746l3.407-.233 4.76 7.185V9.43l-1.12-.14c-.42-.047-.327-.56.093-.746z\"/></svg>",
+    "features": [
+      "Flexible Relational Databases",
+      "Notion AI Q&A and Writer",
+      "Customizable Kanban Boards",
+      "Team Wikis and Knowledge Bases",
+      "Public Web Page Publishing"
+    ],
+    "tags": [
+      "notes",
+      "workspace",
+      "productivity",
+      "wiki",
+      "kanban"
+    ],
+    "isPopular": true,
+    "isFeatured": true,
+    "rating": 4.9,
+    "views": 20400,
+    "createdAt": "2026-01-23"
+  },
+  {
+    "id": "claude",
+    "name": "Claude AI",
+    "slug": "claude-ai",
+    "category": "AI Tools",
+    "description": "Anthropic's next-generation AI assistant built for nuanced reasoning, coding, and writing.",
+    "longDescription": "Claude is a family of foundational AI models created by Anthropic. Known for state-of-the-art coding abilities, long-document comprehension, creative writing, and Constitutional AI alignment.",
+    "url": "https://claude.ai",
+    "color": "#D97757",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z\"/></svg>",
+    "features": [
+      "Artifacts Interactive UI Preview",
+      "Industry-Leading Coding Benchmarks",
+      "200K+ Token Context Window",
+      "Vision & Complex PDF Analysis",
+      "Safe and Nuanced Explanations"
+    ],
+    "tags": [
+      "ai",
+      "anthropic",
+      "coding",
+      "artifacts",
+      "research"
+    ],
+    "isPopular": true,
+    "isFeatured": false,
+    "rating": 4.9,
+    "views": 19100,
+    "createdAt": "2026-01-24"
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "slug": "slack",
+    "category": "Communication",
+    "description": "Productivity platform for team messaging, channels, huddles, and workflow integrations.",
+    "longDescription": "Slack brings all your team communication together in one place. Channels keep work organized, Huddles provide instant audio/video check-ins, and integrations connect your favorite apps seamlessly.",
+    "url": "https://slack.com",
+    "color": "#4A154B",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M5.042 15.165a2.528 2.528 0 0 1-2.52 2.523A2.528 2.528 0 0 1 0 15.165a2.527 2.527 0 0 1 2.522-2.52h2.52v2.52zM6.313 15.165a2.527 2.527 0 0 1 2.521-2.52 2.527 2.527 0 0 1 2.521 2.52v6.313A2.528 2.528 0 0 1 8.834 24a2.528 2.528 0 0 1-2.521-2.522v-6.313zM8.834 5.042a2.528 2.528 0 0 1-2.521-2.52A2.528 2.528 0 0 1 8.834 0a2.528 2.528 0 0 1 2.521 2.522v2.52H8.834zM8.834 6.313a2.528 2.528 0 0 1 2.521 2.521 2.528 2.528 0 0 1-2.521 2.521H2.522A2.528 2.528 0 0 1 0 8.834a2.528 2.528 0 0 1 2.522-2.521h6.312zm10.124 2.521a2.528 2.528 0 0 1 2.522-2.521A2.528 2.528 0 0 1 24 8.834a2.528 2.528 0 0 1-2.52 2.521h-2.522V8.834zm-1.271 0a2.528 2.528 0 0 1-2.521 2.521 2.527 2.527 0 0 1-2.521-2.521V2.522A2.527 2.527 0 0 1 15.166 0a2.528 2.528 0 0 1 2.521 2.522v6.312zm-2.521 10.125a2.528 2.528 0 0 1 2.521 2.52 2.528 2.528 0 0 1-2.521 2.522 2.528 2.528 0 0 1-2.521-2.522v-2.52h2.521zm0-1.271a2.528 2.528 0 0 1-2.521-2.521 2.527 2.527 0 0 1 2.521-2.521h6.313A2.528 2.528 0 0 1 24 15.165a2.528 2.528 0 0 1-2.52 2.522h-6.314z\"/></svg>",
+    "features": [
+      "Organized Team Channels",
+      "Instant Audio Huddles",
+      "Workflow Builder Automation",
+      "Canvas Shared Documents",
+      "Over 2,600 App Integrations"
+    ],
+    "tags": [
+      "chat",
+      "team",
+      "workplace",
+      "channels",
+      "communication"
+    ],
+    "isPopular": true,
+    "isFeatured": false,
+    "rating": 4.7,
+    "views": 15600,
+    "createdAt": "2026-01-25"
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "slug": "vercel",
+    "category": "Developer Tools",
+    "description": "Frontend cloud platform to develop, preview, and ship delightful user experiences globally.",
+    "longDescription": "Vercel provides developer tools and cloud infrastructure to deploy websites and web applications with zero configuration. It is the creator and maintainer of Next.js, optimizing global edge latency and serverless execution.",
+    "url": "https://vercel.com",
+    "color": "#000000",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"m12 1 12 21H0Z\"/></svg>",
+    "features": [
+      "Instant Git-Triggered Deployments",
+      "Automatic Preview Branches",
+      "Serverless & Edge Functions",
+      "Web Analytics & Speed Insights",
+      "First-Class Next.js Integration"
+    ],
+    "tags": [
+      "hosting",
+      "cloud",
+      "nextjs",
+      "frontend",
+      "devops"
+    ],
+    "isPopular": false,
+    "isFeatured": false,
+    "rating": 4.9,
+    "views": 11200,
+    "createdAt": "2026-01-26"
+  },
+  {
+    "id": "coursera",
+    "name": "Coursera",
+    "slug": "coursera",
+    "category": "Education",
+    "description": "Online learning platform partnering with 275+ leading universities and companies.",
+    "longDescription": "Coursera offers degrees, certificates, and thousands of courses in computer science, business, data science, health, and more from world-class institutions like Stanford, Google, and Yale.",
+    "url": "https://www.coursera.org",
+    "color": "#0056D2",
+    "icon": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M11.99 0C5.37 0 0 5.37 0 11.99s5.37 12 12 12c6.62 0 11.99-5.38 11.99-12S18.62 0 11.99 0zm-1.8 17.5V6.5l7.5 5.5-7.5 5.5z\"/></svg>",
+    "features": [
+      "Accredited University Degrees",
+      "Professional Certifications",
+      "Hands-on Guided Projects",
+      "Flexible Self-Paced Schedules",
+      "Peer-Reviewed Assignments"
+    ],
+    "tags": [
+      "education",
+      "courses",
+      "degrees",
+      "learning",
+      "skills"
+    ],
+    "isPopular": false,
+    "isFeatured": false,
+    "rating": 4.7,
+    "views": 9800,
+    "createdAt": "2026-01-27"
+  },
+  {
+    "id": "perplexity_bf22",
+    "name": "Perplexity",
+    "slug": "perplexity",
+    "category": "AI Tools",
+    "description": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.",
+    "longDescription": "Perplexity is an online web application operating at https://perplexity.ai. Verified and added to SoftHub.",
+    "url": "https://perplexity.ai",
+    "color": "#3B82F6",
+    "icon": "<img src=\"https://www.google.com/s2/favicons?domain=perplexity.ai&sz=128\" alt=\"Perplexity logo\" class=\"w-full h-full object-contain rounded-lg p-1\"/>",
+    "features": [
+      "Official Cloud Portal Access",
+      "Cross-Platform Browser Experience",
+      "Real-Time Capabilities"
+    ],
+    "tags": [
+      "perplexity",
+      "ai-tools",
+      "online-tool"
+    ],
+    "isPopular": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "views": 100,
+    "createdAt": "2026-11-22"
+  }
+]
