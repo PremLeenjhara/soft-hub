@@ -1,0 +1,43 @@
+name: Gemini AI Tool Discovery Pipeline
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  discover-and-curate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Gemini AI Tool Curator
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/gemini_tool_curator.py
+
+      - name: Commit and push changes if new tools were discovered
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n $(git status --porcelain data/tools.json js/data.js) ]]; then
+            git add data/tools.json js/data.js
+            git commit -m "🤖 Auto-Discovery: Added trending software platforms via Gemini AI [skip ci]"
+            git push origin main
+            echo "Successfully committed and pushed newly discovered tools!"
+          else
+            echo "No new tools discovered in this run. Catalog is already up to date."
+          fi

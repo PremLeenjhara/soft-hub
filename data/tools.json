@@ -834,5 +834,62 @@
     "rating": 4.8,
     "views": 100,
     "createdAt": "2026-11-22"
+  },
+  {
+    "id": "cursor_632b",
+    "name": "Cursor",
+    "slug": "cursor",
+    "category": "Developer Tools",
+    "description": "AI-first code editor built for lightning-fast pair programming and codebase querying.",
+    "longDescription": "Cursor is an online platform operating at https://www.cursor.com. Curated automatically by SoftHub Gemini Discovery Engine.",
+    "url": "https://www.cursor.com",
+    "color": "#000000",
+    "icon": "<img src=\"https://www.google.com/s2/favicons?domain=cursor.com&sz=128\" alt=\"Cursor logo\" class=\"w-full h-full object-contain rounded-lg p-1\"/>",
+    "features": [
+      "Full Codebase Context AI",
+      "Inline Multi-line Edits",
+      "Terminal Command Generator",
+      "VS Code Extension Compatible"
+    ],
+    "tags": [
+      "ai",
+      "coding",
+      "editor",
+      "developer",
+      "ide"
+    ],
+    "isPopular": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "views": 150,
+    "createdAt": "2026-11-22"
+  },
+  {
+    "id": "linear_d9f2",
+    "name": "Linear",
+    "slug": "linear",
+    "category": "Productivity",
+    "description": "Purpose-built modern tool for high-performance software teams, sprints, and issue tracking.",
+    "longDescription": "Linear is an online platform operating at https://linear.app. Curated automatically by SoftHub Gemini Discovery Engine.",
+    "url": "https://linear.app",
+    "color": "#5E6AD2",
+    "icon": "<img src=\"https://www.google.com/s2/favicons?domain=linear.app&sz=128\" alt=\"Linear logo\" class=\"w-full h-full object-contain rounded-lg p-1\"/>",
+    "features": [
+      "Real-time Fast Synchronization",
+      "Keyboard-First Navigation",
+      "Cycles and Roadmaps",
+      "Git Integrations"
+    ],
+    "tags": [
+      "project-management",
+      "issues",
+      "sprints",
+      "engineering"
+    ],
+    "isPopular": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "views": 150,
+    "createdAt": "2026-11-22"
   }
 ]
