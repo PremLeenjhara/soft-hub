@@ -891,5 +891,63 @@
     "rating": 4.8,
     "views": 150,
     "createdAt": "2026-11-22"
+  },
+  {
+    "id": "elevenlabs_c46c",
+    "name": "ElevenLabs",
+    "slug": "elevenlabs",
+    "category": "AI Tools",
+    "description": "Industry-leading generative voice AI and speech synthesis platform in hundreds of languages.",
+    "longDescription": "ElevenLabs is an online platform operating at https://elevenlabs.io. Curated automatically by SoftHub Gemini Discovery Engine.",
+    "url": "https://elevenlabs.io",
+    "color": "#000000",
+    "icon": "<img src=\"https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128\" alt=\"ElevenLabs logo\" class=\"w-full h-full object-contain rounded-lg p-1\"/>",
+    "features": [
+      "Hyper-Realistic Voice Cloning",
+      "Text-to-Speech in 29+ Languages",
+      "Dubbing & Audio Translation",
+      "Sound Effects Generator"
+    ],
+    "tags": [
+      "ai",
+      "voice",
+      "audio",
+      "tts",
+      "speech"
+    ],
+    "isPopular": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "views": 150,
+    "createdAt": "2026-11-22"
+  },
+  {
+    "id": "supabase_1750",
+    "name": "Supabase",
+    "slug": "supabase",
+    "category": "Developer Tools",
+    "description": "Open source Firebase alternative: Postgres database, Auth, Instant APIs, Realtime, and Storage.",
+    "longDescription": "Supabase is an online platform operating at https://supabase.com. Curated automatically by SoftHub Gemini Discovery Engine.",
+    "url": "https://supabase.com",
+    "color": "#3ECF8E",
+    "icon": "<img src=\"https://www.google.com/s2/favicons?domain=supabase.com&sz=128\" alt=\"Supabase logo\" class=\"w-full h-full object-contain rounded-lg p-1\"/>",
+    "features": [
+      "Full Postgres SQL Database",
+      "Row Level Security & Auth",
+      "Realtime Subscriptions",
+      "Auto-Generated REST APIs"
+    ],
+    "tags": [
+      "database",
+      "postgres",
+      "backend",
+      "auth",
+      "developer"
+    ],
+    "isPopular": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "views": 150,
+    "createdAt": "2026-11-22"
   }
 ]
