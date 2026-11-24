@@ -949,5 +949,63 @@
     "rating": 4.8,
     "views": 150,
     "createdAt": "2026-11-22"
+  },
+  {
+    "id": "midjourney_acf4",
+    "name": "Midjourney",
+    "slug": "midjourney",
+    "category": "Graphic Design",
+    "description": "Artistic generative visual AI exploring new mediums of thought and photorealistic imagery.",
+    "longDescription": "Midjourney is an online platform operating at https://www.midjourney.com. Curated automatically by SoftHub Gemini Discovery Engine.",
+    "url": "https://www.midjourney.com",
+    "color": "#1E293B",
+    "icon": "<img src=\"https://www.google.com/s2/favicons?domain=midjourney.com&sz=128\" alt=\"Midjourney logo\" class=\"w-full h-full object-contain rounded-lg p-1\"/>",
+    "features": [
+      "Photorealistic Image Generation",
+      "Style Reference & Tuning",
+      "Web Editor & Canvas Inpainting",
+      "High Dynamic Range"
+    ],
+    "tags": [
+      "ai",
+      "art",
+      "image-generation",
+      "creative",
+      "design"
+    ],
+    "isPopular": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "views": 150,
+    "createdAt": "2026-11-22"
+  },
+  {
+    "id": "raycast_d022",
+    "name": "Raycast",
+    "slug": "raycast",
+    "category": "Productivity",
+    "description": "Blazingly fast, extensible launcher for controlling tools, clipboard history, and AI shortcuts.",
+    "longDescription": "Raycast is an online platform operating at https://www.raycast.com. Curated automatically by SoftHub Gemini Discovery Engine.",
+    "url": "https://www.raycast.com",
+    "color": "#FF6363",
+    "icon": "<img src=\"https://www.google.com/s2/favicons?domain=raycast.com&sz=128\" alt=\"Raycast logo\" class=\"w-full h-full object-contain rounded-lg p-1\"/>",
+    "features": [
+      "Instant Keyboard Launcher",
+      "Custom AI Models",
+      "Clipboard History & Snippets",
+      "Thousands of Extensions"
+    ],
+    "tags": [
+      "launcher",
+      "shortcuts",
+      "productivity",
+      "mac",
+      "workflow"
+    ],
+    "isPopular": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "views": 150,
+    "createdAt": "2026-11-22"
   }
 ]
