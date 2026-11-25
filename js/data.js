@@ -1011,5 +1011,33 @@ window.SEED_TOOLS = [
     "rating": 4.8,
     "views": 150,
     "createdAt": "2026-11-22"
+  },
+  {
+    "id": "duolingo_9bf6",
+    "name": "Duolingo",
+    "slug": "duolingo",
+    "category": "Education",
+    "description": "The world’s most popular language-learning platform with gamified bite-sized lessons.",
+    "longDescription": "Duolingo is an online platform operating at https://www.duolingo.com. Curated automatically by SoftHub Gemini Discovery Engine.",
+    "url": "https://www.duolingo.com",
+    "color": "#58CC02",
+    "icon": "<img src=\"https://www.google.com/s2/favicons?domain=duolingo.com&sz=128\" alt=\"Duolingo logo\" class=\"w-full h-full object-contain rounded-lg p-1\"/>",
+    "features": [
+      "40+ Language Courses",
+      "Bite-Sized Gamified Lessons",
+      "Leaderboard Competition",
+      "Duolingo Max AI Roleplay"
+    ],
+    "tags": [
+      "languages",
+      "learning",
+      "education",
+      "gamified"
+    ],
+    "isPopular": false,
+    "isFeatured": false,
+    "rating": 4.8,
+    "views": 150,
+    "createdAt": "2026-11-22"
   }
 ];
